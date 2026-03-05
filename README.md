@@ -80,3 +80,10 @@ The app will prompt for a master password
 
 ![Helper](mdpictures/decrypted.png)
 
+## Legal / Ethical Use
+
+This repository is provided for educational and research purposes only.
+Use of this code on systems without explicit authorization may be illegal.
+The author is not responsible for misuse of the materials contained in this repository.
+
+
